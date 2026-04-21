@@ -84,6 +84,13 @@ names and emails of all users.
 
 ---
 
+## Screen Shots
+
+![Page Screenshots](assets/screenshot 1.png)
+![Page Screenshots](assets/screenshot 2.png)
+![Page Screenshots](assets/screenshot 3.png)
+![Page Screenshots](assets/screenshot 4.png)
+
 ## 👨‍💻 Author
 
 Manish
@@ -91,3 +98,4 @@ Manish
 ---
 
 ## ⭐ Feel free to enhance this project and make it production-ready!
+
