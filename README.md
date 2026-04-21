@@ -91,6 +91,18 @@ names and emails of all users.
 ![Page Screenshots](assets/screenshot-3.png)
 ![Page Screenshots](assets/screenshot-4.png)
 
+---
+
+## postman API testing 
+
+start the server on port 3000
+select method POST 
+and then give name and email in Json format 
+get output [201 Created]
+
+![Page Screenshots](assets/screenshot-5.png)
+
+
 ## 👨‍💻 Author
 
 Manish
