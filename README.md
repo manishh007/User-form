@@ -64,12 +64,12 @@ http://localhost:3000
 
 ### 4. Open frontend
 
-Open `index.html` in your browser.
+*Open `index.html` in your browser.
 
-enter name and email id (both are required)
+*enter name and email id (both are required)
 then hit enter or press submit button
 
-result : you will see a table containing
+*result : you will see a table containing
 names and emails of all users.
 
 ---
@@ -95,10 +95,10 @@ names and emails of all users.
 
 ## postman API testing 
 
-start the server on port 3000
-select method POST 
-and then give name and email in Json format 
-get output [201 Created]
+*start the server on port 3000
+s*elect method POST 
+*and then give name and email in Json format 
+*get output [201 Created]
 
 ![Page Screenshots](assets/screenshot-5.png)
 
